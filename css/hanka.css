@@ -1,0 +1,42 @@
+.kulaty-tlacitko {
+    background-color: #e80303;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 23px;
+    margin: 4px 2px;
+    width: 426px;
+}
+
+.kulaty-tlacitkovol1 {
+    background-color: #e80303;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 23px;
+    margin: 4px 2px;
+    width: 300px;
+}
+  
+.no_background {
+    background: url('./../img/HONZA BRYLE 1.jpg');
+    z-index: 55;
+    background-size: cover;
+    background-position-y: 10%;
+}
+.boot-mask {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.hezky {
+    font-size: 18pt;
+    color: #000
+}
