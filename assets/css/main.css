@@ -73,10 +73,20 @@ h6 {
 }
 
 .no_background {
-  background: url("C:\Users\Hana Reimannová\OneDrive\Dokumenty\denedesign\landina_soundglasses\Impact (1)\landina\assets\img\_DSC0218-Edit.jpg")!important;
+  background: url('./../../assets/img/HONZA BRYLE 1.jpg');
   z-index: 55;
-  
+  background-size: cover;
+  background-position-y: 10%;
 }
+.boot-mask {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.hezky {
+  font-size: 18pt;
+  color: #000
+}
+
 .w-50 {
   width: 50% !important;
   align-self: center;
@@ -111,7 +121,7 @@ section {
 }
 
 .section-header h2 {
-  font-size: 32px;
+  font-size: 45px;
   font-weight: 600;
   margin-bottom: 20px;
   padding-bottom: 20px;
